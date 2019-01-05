@@ -9,7 +9,7 @@ public class OnClickTest : MonoBehaviour
 
     Button greenButton;
 
-    // Start is called before the first frame update
+    // Start is called before the first frame update.
     void Start()
     {
         // create onClick listener by code.
